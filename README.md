@@ -1,2 +1,2 @@
 # proteins-contact-matrix-sonification
-This project hint to creat a pipeline that sonifise a preteins contact matrix in an understanable and informative format
+This project hint to creat a pipeline performing the sonifications of a proteins contact matrix in an understanable and informative format
